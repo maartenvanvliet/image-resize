@@ -1,0 +1,12 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:maartenvanvliet/image-resize.git",
+  "author": "Maarten van Vliet <maartenvanvliet@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/storage": "^1.2.1",
+    "gm": "^1.23.0"
+  }
+}
